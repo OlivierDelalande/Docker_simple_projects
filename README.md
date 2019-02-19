@@ -1,5 +1,7 @@
 # Docker_simple_projects
 
+5 first chapters Stephen grider course : https://www.udemy.com/docker-and-kubernetes-the-complete-guide/learn/v4/content
+
 Inside redis-image, to run a container that host a redis server, run :
 docker build -t yourdockerid/nameofproject:latest . (gives a tag to your docker container when building it)
 knowing :latest is optional, by default the latest is taken
